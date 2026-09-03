@@ -1,8 +1,0 @@
-git clone https://github.com/avinash-mukund/bitcoin-price-forecasting.git
-cd bitcoin-price-forecasting
-
-python -m venv .venv
-source .venv/bin/activate          # Mac/Linux
-# .venv\Scripts\activate           # Windows
-
-pip install -r requirements.txt
