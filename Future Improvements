@@ -1,6 +1,0 @@
-- Add uncertainty quantification (prediction intervals)
-- Implement walk-forward validation
-- Deploy as a Streamlit dashboard
-- Add real-time data pipeline
-- Experiment with LSTM / Transformer models with proper tuning
-- Incorporate external features (sentiment, macroeconomic indicators)
