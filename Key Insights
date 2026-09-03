@@ -1,6 +1,0 @@
-Key Insights
-
-- Simple models can outperform complex ones when features are well-engineered.
-- Recent closing price and 7-day moving average were the strongest predictors.
-- Tree-based models (Random Forest & XGBoost) struggled with sharp volatility.
-- The RNN underperformed significantly, likely due to architecture and scaling issues.
