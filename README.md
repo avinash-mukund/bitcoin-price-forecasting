@@ -47,7 +47,14 @@ After comparing four models (Linear Regression, Random Forest, XGBoost, and RNN)
 
 **Target**: Next day’s closing price
 
----
+---<img width="1470" height="814" alt="Closing moving prices" src="https://github.com/user-attachments/assets/7dc06f3c-34ce-4262-b41f-2778306f80a1" />
+<img width="823" height="499" alt="Feature importance" src="https://github.com/user-attachments/assets/673a26ef-d61a-46b1-85fc-fe4f4ec45a9f" />
+<img width="884" height="481" alt="XGBoost predictions" src="https://github.com/user-attachments/assets/56030a6b-cd14-4107-ad31-1d396fcec2ad" />
+<img width="885" height="482" alt="Random Forest predictions" src="https://github.com/user-attachments/assets/1ad05a8d-408e-4b25-b4d1-81d2ac19bdcc" />
+<img width="1207" height="615" alt="Random Forest confidence" src="https://github.com/user-attachments/assets/2bbcfb92-2eea-4d63-a335-7476ca8fd73c" />
+<img width="860" height="482" alt="RNN Predictions" src="https://github.com/user-attachments/assets/ac117d27-4d51-45a5-89cc-5065b72e34ae" />
+<img width="1010" height="504" alt="Linear regression predictions" src="https://github.com/user-attachments/assets/e16a8561-fb35-42a4-8458-df94543e0fa3" />
+
 
 ## Methodology (CRISP-DM)
 
